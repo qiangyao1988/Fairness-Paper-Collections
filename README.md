@@ -7,7 +7,7 @@
 
 - **Flexibly Fair Representation Learning by Disentanglement** [[Paper]](https://arxiv.org/pdf/1906.02589.pdf)<br>
 
-Description: 
+  Description: 
 
 
 
