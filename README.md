@@ -10,6 +10,12 @@
   Description: 
   
   
+  
+- **Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation** [[Paper]](https://arxiv.org/pdf/1911.11834.pdf)[[Code]](https://github.com/princetonvisualai/DomainBiasMitigation)<br>
+
+  Description: 
+
+  
 
 ## Group Fairness
 
