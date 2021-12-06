@@ -23,7 +23,9 @@
 
   Description:  Data augmentation. 
 
-  
+- **Learning Interpretable Fair Representations** [[Paper]](https://www.researchgate.net/profile/Tianhao-Wang-15/publication/345829940_Learning_Interpretable_Fair_Representations/links/5faf66ef45851518fda2e34e/Learning-Interpretable-Fair-Representations.pdf)<br>
+
+  Description:  ColorMNIST
 
 ##  Individual Fairness
 
