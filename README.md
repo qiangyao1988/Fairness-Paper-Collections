@@ -35,7 +35,9 @@
 
   Description:  
 
-  
+- **Fairness via Representation Neutralization** [[Paper]](https://proceedings.neurips.cc/paper/2021/file/64ff7983a47d331b13a81156e2f4d29d-Paper.pdf)[[Code]](https://github.com/mndu/RNF-Fairness)<br>
+
+  Description:
 
 ##  Individual Fairness
 
