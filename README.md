@@ -30,6 +30,12 @@
 - **Fair mixup: Fairness via interpolation** [[Paper]](https://arxiv.org/pdf/2103.06503.pdf)[[Code]](https://github.com/chingyaoc/fair-mixup)<br>
 
   Description:  
+  
+- **Discover the Unknown Biased Attribute of an Image Classifier** [[Paper]](https://arxiv.org/pdf/2104.14556.pdf)[[Code]](https://github.com/hubertlee915/discover_unknown_biases)<br>
+
+  Description:  
+
+  
 
 ##  Individual Fairness
 
