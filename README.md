@@ -7,11 +7,8 @@
 
 - **Flexibly Fair Representation Learning by Disentanglement** [[Paper]](https://arxiv.org/pdf/1906.02589.pdf)<br>Description: 
 
-  
-  
 - **Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation** [[Paper]](https://arxiv.org/pdf/1911.11834.pdf)[[Code]](https://github.com/princetonvisualai/DomainBiasMitigation)<br>Description: 
-
-  
+- **To be Robust or to be Fair: Towards Fairness in Adversarial Training** [[Paper]](https://arxiv.org/pdf/2010.06121.pdf)[[Code]](https://github.com/Ian-Hardy/Fair_Robust_Modeling)<br>Description: 
 
 ## Group Fairness
 
