@@ -38,6 +38,12 @@
 - **Fairness via Representation Neutralization** [[Paper]](https://proceedings.neurips.cc/paper/2021/file/64ff7983a47d331b13a81156e2f4d29d-Paper.pdf)[[Code]](https://github.com/mndu/RNF-Fairness)<br>
 
   Description:
+  
+- **Learning Not to Learn: Training Deep Neural Networks with Biased Data** [[Paper]](https://arxiv.org/pdf/1812.10352.pdf)[[Code]](https://github.com/feidfoe/learning-not-to-learn)<br>
+
+  Description:
+  
+  
 
 ##  Individual Fairness
 
