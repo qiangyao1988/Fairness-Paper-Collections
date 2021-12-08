@@ -24,6 +24,8 @@
 
 - **Learning Not to Learn: Training Deep Neural Networks with Biased Data** [[Paper]](https://arxiv.org/pdf/1812.10352.pdf)[[Code]](https://github.com/feidfoe/learning-not-to-learn)<br>Description:
 
+- **Learning Adversarially Fair and Transferable Representations** [[Paper]](http://proceedings.mlr.press/v80/madras18a/madras18a.pdf)[[Code]](https://github.com/VectorInstitute/laftr)<br>Description: LAFTR
+
   
 
 ##  Individual Fairness
