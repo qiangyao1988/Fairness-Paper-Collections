@@ -20,6 +20,9 @@
 - **Learning Not to Learn: Training Deep Neural Networks with Biased Data** [[Paper]](https://arxiv.org/pdf/1812.10352.pdf)[[Code]](https://github.com/feidfoe/learning-not-to-learn)<br>Description:
 - **Learning Adversarially Fair and Transferable Representations** [[Paper]](http://proceedings.mlr.press/v80/madras18a/madras18a.pdf)[[Code]](https://github.com/VectorInstitute/laftr)<br>Description: LAFTR
 - **Learning Disentangled Representation for Fair Facial Attribute Classification via Fairness-aware Information Alignment** [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-4445.ParkS.pdf)<br>Description: 
+- **Learning De-biased Representations with Biased Representations** [[Paper]](https://arxiv.org/pdf/1910.02806.pdf)[[Code]](https://github.com/clovaai/rebias)<br>Description:  cross-bias generalization
+- **Unbiased Classification Through Bias-Contrastive and Bias-Balanced Learning** [[Paper]](https://proceedings.neurips.cc/paper/2021/file/de8aa43e5d5fa8536cf23e54244476fa-Paper.pdf)[[Code]](https://github.com/grayhong/bias-contrastive-learning)<br>Description:  cross-bias generalization..
+- **Learning Unbiased Representations via Mutual Information Backpropagation** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Ragonesi_Learning_Unbiased_Representations_via_Mutual_Information_Backpropagation_CVPRW_2021_paper.pdf)[[Code]](https://github.com/rugrag/learn-unbiased)<br>Description:  cross-bias generalization
 
 ##  Individual Fairness
 
