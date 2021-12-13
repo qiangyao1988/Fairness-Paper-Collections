@@ -23,7 +23,8 @@
 - **Learning De-biased Representations with Biased Representations** [[Paper]](https://arxiv.org/pdf/1910.02806.pdf)[[Code]](https://github.com/clovaai/rebias)<br>Description:  cross-bias generalization
 - **Unbiased Classification Through Bias-Contrastive and Bias-Balanced Learning** [[Paper]](https://proceedings.neurips.cc/paper/2021/file/de8aa43e5d5fa8536cf23e54244476fa-Paper.pdf)[[Code]](https://github.com/grayhong/bias-contrastive-learning)<br>Description:  cross-bias generalization..
 - **Learning Unbiased Representations via Mutual Information Backpropagation** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Ragonesi_Learning_Unbiased_Representations_via_Mutual_Information_Backpropagation_CVPRW_2021_paper.pdf)[[Code]](https://github.com/rugrag/learn-unbiased)<br>Description:  cross-bias generalization
-- **Counterfactual Generative Networks** [[Paper]](https://openreview.net/pdf?id=BXewfAYMmJw)[[Code]](https://github.com/autonomousvision/counterfactual_generative_networks)<br>Description:  
+  - **Counterfactual Generative Networks** [[Paper]](https://openreview.net/pdf?id=BXewfAYMmJw)[[Code]](https://github.com/autonomousvision/counterfactual_generative_networks)<br> Description:  
+
 - **Fairness without the sensitive attribute via Causal Variational Autoencoder** [[Paper]](https://arxiv.org/pdf/2109.04999.pdf)<br>Description:  
 - **Discovering Fair Representations in the Data Domain** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)<br>Description:  
 - **Investigating Bias in Image Classification using Model Explanations** [[Paper]](https://arxiv.org/pdf/2012.05463.pdf)<br>Description:  
