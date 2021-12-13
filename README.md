@@ -25,6 +25,7 @@
 - **Learning Unbiased Representations via Mutual Information Backpropagation** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Ragonesi_Learning_Unbiased_Representations_via_Mutual_Information_Backpropagation_CVPRW_2021_paper.pdf)[[Code]](https://github.com/rugrag/learn-unbiased)<br>Description:  cross-bias generalization
 - **Counterfactual Generative Networks** [[Paper]](https://openreview.net/pdf?id=BXewfAYMmJw)[[Code]](https://github.com/autonomousvision/counterfactual_generative_networks)<br>Description:  
 - **Fairness without the sensitive attribute via Causal Variational Autoencoder** [[Paper]](https://arxiv.org/pdf/2109.04999.pdf)<br>Description:  
+- **Discovering Fair Representations in the Data Domain** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)<br>Description:  
 
 ##  Individual Fairness
 
