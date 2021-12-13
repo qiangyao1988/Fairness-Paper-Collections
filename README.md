@@ -26,6 +26,7 @@
 - **Counterfactual Generative Networks** [[Paper]](https://openreview.net/pdf?id=BXewfAYMmJw)[[Code]](https://github.com/autonomousvision/counterfactual_generative_networks)<br>Description:  
 - **Fairness without the sensitive attribute via Causal Variational Autoencoder** [[Paper]](https://arxiv.org/pdf/2109.04999.pdf)<br>Description:  
 - **Discovering Fair Representations in the Data Domain** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)<br>Description:  
+- **Investigating Bias in Image Classification using Model Explanations** [[Paper]](https://arxiv.org/pdf/2012.05463.pdf)<br>Description:  
 
 ##  Individual Fairness
 
