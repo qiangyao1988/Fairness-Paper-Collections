@@ -24,10 +24,10 @@
 - **Unbiased Classification Through Bias-Contrastive and Bias-Balanced Learning** [[Paper]](https://proceedings.neurips.cc/paper/2021/file/de8aa43e5d5fa8536cf23e54244476fa-Paper.pdf)[[Code]](https://github.com/grayhong/bias-contrastive-learning)<br>Description:  cross-bias generalization..
 - **Learning Unbiased Representations via Mutual Information Backpropagation** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Ragonesi_Learning_Unbiased_Representations_via_Mutual_Information_Backpropagation_CVPRW_2021_paper.pdf)[[Code]](https://github.com/rugrag/learn-unbiased)<br>Description:  cross-bias generalization
   - **Counterfactual Generative Networks** [[Paper]](https://openreview.net/pdf?id=BXewfAYMmJw)[[Code]](https://github.com/autonomousvision/counterfactual_generative_networks)<br> Description:  
-
 - **Fairness without the sensitive attribute via Causal Variational Autoencoder** [[Paper]](https://arxiv.org/pdf/2109.04999.pdf)<br>Description:  Mitigate the unknow biases.
 - **Discovering Fair Representations in the Data Domain** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)<br>Description:  
 - **Investigating Bias in Image Classification using Model Explanations** [[Paper]](https://arxiv.org/pdf/2012.05463.pdf)<br>Description:  
+- **BiaSwap: Removing Dataset Bias With Bias-Tailored Swapping Augmentation** [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_BiaSwap_Removing_Dataset_Bias_With_Bias-Tailored_Swapping_Augmentation_ICCV_2021_paper.pdf)<br>Description:  Good preliminaries introduction.
 
 ##  Individual Fairness
 
