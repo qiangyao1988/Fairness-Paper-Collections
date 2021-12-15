@@ -38,3 +38,5 @@
 ##  Counterfactual Fairness
 
 - **Adversarial Learning for Counterfactual Fairness** [[Paper]](https://arxiv.org/pdf/2008.13122.pdf)<br>Description: Counterfactual Fairness (CF) literature review
+- **Counterfactual Generative Networks** [[Paper]](https://arxiv.org/pdf/2101.06046.pdf)<br>Description: 
+
