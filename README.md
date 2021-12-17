@@ -29,6 +29,7 @@
 - **Discovering Fair Representations in the Data Domain** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)<br>Description:  
 - **Investigating Bias in Image Classification using Model Explanations** [[Paper]](https://arxiv.org/pdf/2012.05463.pdf)<br>Description:  
 - **BiaSwap: Removing Dataset Bias With Bias-Tailored Swapping Augmentation** [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_BiaSwap_Removing_Dataset_Bias_With_Bias-Tailored_Swapping_Augmentation_ICCV_2021_paper.pdf)<br>Description:  Good preliminaries introduction.
+- **Representation Learning with Statistical Independence to Mitigate Bias** [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Adeli_Representation_Learning_With_Statistical_Independence_to_Mitigate_Bias_WACV_2021_paper.pdf)[[Code]](https://github.com/QingyuZhao/BR-Net/)<br>Description:  
 
 ##  Individual Fairness
 
