@@ -11,6 +11,7 @@
 - **A Survey on Bias and Fairness in Machine Learning** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3457607?casa_token=0Ssh-gZtJAEAAAAA:M5Kj5NI5cKWhl_zKW_RaAPMtI1NDS81GRNlHiyap7zzfv9oMWYCQZ3vDr212L5TsnLr9GdY2_bM)<br>Description: 
 - **Fairness in Deep Learning A Computational Perspective** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9113719&casa_token=t65GNZe0PY0AAAAA:8mGUuM9kevQLnsW95VfFRNWtIkEhz8iSjQqfIyE0xZ_BG83w3nK2zIsnoKCGlcznOwKE3jIH&tag=1)<br>Description: 
 - **You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods** [[Paper]](http://ceur-ws.org/Vol-2560/paper8.pdf)<br>Description: 
+- **Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics** [[Paper]](https://openreview.net/pdf?id=OTnqQUEwPKu)[[Code]](https://github.com/charan223/FairDeepLearning)<br>Description: 
 
 ## Group Fairness
 
