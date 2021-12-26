@@ -37,6 +37,7 @@
 ##  Individual Fairness
 
 - **Training Individually Fair ML Models with Sensitive Subspace Robustness** [[Paper]](https://arxiv.org/pdf/1907.00020.pdf)<br>Description: 
+- **Learning Certified Individually Fair Representations** [][[Paper][[Paper]](https://arxiv.org/pdf/2002.10312.pdf)[[Code]](https://github.com/QingyuZhao/BR-Net/)<br>Description: 
 
 
 
