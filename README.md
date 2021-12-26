@@ -13,6 +13,7 @@
 - **You Shouldn’t Trust Me: Learning Models Which Conceal Unfairness From Multiple Explanation Methods** [[Paper]](http://ceur-ws.org/Vol-2560/paper8.pdf)<br>Description: 
 - **Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics** [[Paper]](https://openreview.net/pdf?id=OTnqQUEwPKu)[[Code]](https://github.com/charan223/FairDeepLearning)<br>Description: 
 - **Technical Challenges for Training Fair Neural Networks** [[Paper]](https://arxiv.org/pdf/2102.06764.pdf)<br>Description: 
+- **Fair Classification Under Strict Unawareness** [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.23)<br>Description: 
 
 ## Group Fairness
 
