@@ -36,6 +36,7 @@
 - **Representation Learning with Statistical Independence to Mitigate Bias** [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Adeli_Representation_Learning_With_Statistical_Independence_to_Mitigate_Bias_WACV_2021_paper.pdf)[[Code]](https://github.com/QingyuZhao/BR-Net/)<br>Description:  
 - **Learning Disentangled Representations with Latent Variation Predictability** [[Paper]](https://arxiv.org/pdf/2007.12885.pdf)<br>Description:  
 - **Mitigating Unwanted Biases with Adversarial Learning** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3278721.3278779)<br>Description:  
+- **Null-sampling for Interpretable and Fair Representations** [[Paper]](https://arxiv.org/pdf/2008.05248.pdf)[[Code]](https://github.com/predictive-analytics-lab/nifr)<br>Description:  
 
 ##  Individual Fairness
 
