@@ -55,4 +55,5 @@
 - **Counterfactual Generative Networks** [[Paper]](https://arxiv.org/pdf/2101.06046.pdf)<br>Description: 
 - **Counterfactual Reasoning for Fair Clinical Risk Prediction** [[Paper]](http://proceedings.mlr.press/v106/pfohl19a/pfohl19a.pdf)<br>Description: 
 - **Counterfactual Fairness in Text Classification through Robustness** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3306618.3317950)<br>Description: 
+- **Explaining the Efficacy of Counterfactually Augmented Data** [[Paper]](https://arxiv.org/pdf/2010.02114.pdf)<br>Description: 
 
