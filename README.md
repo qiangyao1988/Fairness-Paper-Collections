@@ -37,6 +37,7 @@
 - **Learning Disentangled Representations with Latent Variation Predictability** [[Paper]](https://arxiv.org/pdf/2007.12885.pdf)<br>Description:  
 - **Mitigating Unwanted Biases with Adversarial Learning** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3278721.3278779)<br>Description:  
 - **Null-sampling for Interpretable and Fair Representations** [[Paper]](https://arxiv.org/pdf/2008.05248.pdf)[[Code]](https://github.com/predictive-analytics-lab/nifr)<br>Description:  
+- **Towards Accuracy-Fairness Paradox: Adversarial Example-based Data Augmentation for Visual Debiasing** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413772)<br>Description:  
 
 ##  Individual Fairness
 
@@ -57,3 +58,4 @@
 - **Counterfactual Fairness in Text Classification through Robustness** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3306618.3317950)<br>Description: NLP 
 - **Explaining the Efficacy of Counterfactually Augmented Data** [[Paper]](https://arxiv.org/pdf/2010.02114.pdf)<br>Description: NLP 
 
+ 
