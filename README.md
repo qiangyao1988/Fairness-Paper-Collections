@@ -50,6 +50,14 @@
 - **Fairness through Causal Awareness: Learning Causal Latent-Variable Models for Biased Data** [][[Paper][[Paper]](https://dl.acm.org/doi/pdf/10.1145/3287560.3287564)<br>Description: 
 - **Causal effect inference with deep latent-variable models**[][[Paper][[Paper]](https://arxiv.org/pdf/1705.08821.pdf)<br>Description: 
 
+##  Unknow Bias
+
+- **Causal intersectionality for fair ranking** [][[Paper][[Paper]](https://arxiv.org/pdf/2006.08688.pdf)[[Code]](https://github.com/DataResponsibly/CIFRank)<br>Description: 
+
+  
+
+
+
 ##  Counterfactual Fairness
 
 - **Adversarial Learning for Counterfactual Fairness** [[Paper]](https://arxiv.org/pdf/2008.13122.pdf)<br>Description: Counterfactual Fairness (CF) literature review
@@ -57,5 +65,6 @@
 - **Counterfactual Reasoning for Fair Clinical Risk Prediction** [[Paper]](http://proceedings.mlr.press/v106/pfohl19a/pfohl19a.pdf)<br>Description: 
 - **Counterfactual Fairness in Text Classification through Robustness** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3306618.3317950)<br>Description: NLP 
 - **Explaining the Efficacy of Counterfactually Augmented Data** [[Paper]](https://arxiv.org/pdf/2010.02114.pdf)<br>Description: NLP 
+- 
 
- 
+- \
