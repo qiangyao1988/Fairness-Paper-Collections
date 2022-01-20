@@ -53,8 +53,11 @@
 ##  Unknow Bias
 
 - **Causal intersectionality for fair ranking** [][[Paper][[Paper]](https://arxiv.org/pdf/2006.08688.pdf)[[Code]](https://github.com/DataResponsibly/CIFRank)<br>Description: 
+- 
 
-  
+##  Robust Fairness
+
+- 
 
 
 
@@ -67,4 +70,4 @@
 - **Explaining the Efficacy of Counterfactually Augmented Data** [[Paper]](https://arxiv.org/pdf/2010.02114.pdf)<br>Description: NLP 
 - 
 
-- \
+- 
